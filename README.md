@@ -6,8 +6,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 
 
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Angular & Three.js Research Project
+
+## Onderzoek naar 3D Web Development
 
 ## Inhoudsopgave
 
@@ -19,12 +20,20 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Ik ga onderzoeken hoe ik **Angular** kan combineren met **Three.js** om interactieve 3D web experiences te bouwen. Dit project focust op het leren van 3D development principles, technische implementatie en development workflow.
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+### Tech Stack
+- **Frontend Framework:** Angular (TypeScript)
+- **3D Library:** Three.js library voor WebGL rendering
+- **Package Manager:** npm of yarn
+
+### Onderzoeksgebieden
+- **Technische Integratie**: Hoe Three.js optimaal te integreren in Angular componenten
+- **Performance Optimalisatie**: Strategieën voor real-time rendering in live omgevingen
+- **Development Experience**: Tools en workflows voor efficiënte 3D development
+- **Accessibility**: Toegankelijke 3D interfaces voor diverse gebruikers
 
 ## Installatie
 
