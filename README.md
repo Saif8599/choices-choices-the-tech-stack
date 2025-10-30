@@ -30,10 +30,9 @@ Ik ga onderzoeken hoe ik **Angular** kan combineren met **Three.js** om interact
 - **Package Manager:** npm of yarn
 
 ### Onderzoeksgebieden
-- **Technische Integratie**: Hoe Three.js optimaal te integreren in Angular componenten
-- **Performance Optimalisatie**: Strategieën voor real-time rendering in live omgevingen
-- **Development Experience**: Tools en workflows voor efficiënte 3D development
-- **Accessibility**: Toegankelijke 3D interfaces voor diverse gebruikers
+- **User Experience (UX):** Hoe de techstack de eindgebruikers beïnvloedt, prestaties, toegankelijkheid en gebruiksvriendelijkheid van 3D interfaces.
+- **Developer Experience (DX):** Tools, workflows en ontwikkelervaring voor efficiënte 3D development in Angular.
+- **Content Management Experience (CMX):** Hoe eenvoudig is het beheren van 3D content, assets, modellen en scenes binnen de Angular applicatie?
 
 ## Installatie
 
