@@ -5,8 +5,12 @@ Onderzoek een andere tech-stack voor het ontwerpen en bouwen van een website voo
 De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
 
-
 # Angular & Three.js Research Project
+
+<img width="658" height="628" alt="image" src="https://github.com/user-attachments/assets/c8e286e1-4c1e-428c-8d61-afd5f12570c6" />
+
+<img width="218" height="646" alt="image" src="https://github.com/user-attachments/assets/a2a5329d-05d1-480f-b1dd-edffd58951ab" />
+
 
 ## Onderzoek naar 3D Web Development
 
