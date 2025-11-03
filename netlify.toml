@@ -1,7 +1,9 @@
 [build]
-  base = "app"
-  publish = "dist/app/browser"
-  command = "npm run build"
+  command = "cd app && npm run build"
+  publish = "app/dist/app/browser"
+
+[build.environment]
+  NODE_VERSION = "18"
 
 [[redirects]]
   from = "/*"
