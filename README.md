@@ -40,6 +40,38 @@ Ik ga onderzoeken hoe ik **Angular** kan combineren met **Three.js** om interact
 
 ## Installatie
 
+### Vereisten
+- Node.js 18+ 
+- npm 9+
+- Angular CLI 17+
+
+### Stap 1: Repository Clonen
+```bash
+git clone https://github.com/Saif8599/choices-choices-the-tech-stack.git
+cd choices-choices-the-tech-stack
+```
+
+### Stap 2: Naar Angular Project Gaan
+```bash
+cd app
+```
+
+### Stap 3: Dependencies Installeren
+```bash
+npm install
+```
+
+### Stap 4: Development Server Starten
+```bash
+ng serve
+```
+
+### Stap 5: Open je Browser
+Ga naar: http://localhost:4200
+
+### Project Structuur
+<img width="540" height="239" alt="image" src="https://github.com/user-attachments/assets/bd3eba43-9b29-4c14-aa5e-e86d0165b5c4" />
+
 ## Gebruik
 
 ## Bronnen
