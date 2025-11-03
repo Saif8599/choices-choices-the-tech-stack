@@ -4,7 +4,7 @@ import { TextBlock } from './components/text-block/text-block';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, TextBlock],
+  imports: [RouterOutlet],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
